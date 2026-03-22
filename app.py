@@ -887,8 +887,8 @@ with tab_compare:
 
     if cmp_run and kw1.strip() and kw2.strip():
         with st.spinner(f"Analyzing '{kw1}' and '{kw2}'…"):
-            a1 = fetch_news(kw1.strip(), days=days)
-            a2 = fetch_news(kw2.strip(), days=days)
+            a1 = fetch_news(kw1.strip(), days=7)
+            a2 = fetch_news(kw2.strip(), days=7)
             r1 = analyze_all(a1) if a1 else []
             r2 = analyze_all(a2) if a2 else []
 
