@@ -139,13 +139,21 @@ SentimentScope/
 
 ## Screenshots
 
-> *(Add screenshots here after deployment)*
+<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/d176a4a0-38c4-46cd-b824-30a90f7de130" />
+<img width="1919" height="847" alt="image" src="https://github.com/user-attachments/assets/73a71d53-a5e6-45b0-8d3d-3a615113ab6e" />
+<img width="1919" height="857" alt="image" src="https://github.com/user-attachments/assets/b2c0c641-46d5-418b-8236-04d87710bb52" />
+<img width="1919" height="852" alt="image" src="https://github.com/user-attachments/assets/a56a765f-e296-44de-b019-9819ded058ac" />
+<img width="1919" height="849" alt="image" src="https://github.com/user-attachments/assets/9254fd40-39cb-411f-be44-ecbc45747ad7" />
+<img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/da27308a-0eaf-4c6b-8bef-676ae96af316" />
+<img width="1919" height="825" alt="image" src="https://github.com/user-attachments/assets/c1e3b588-2430-4ae5-a6b6-5e7eca18bc79" />
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/84eeb97a-901a-41ed-9ad7-d7168506b71b" />
+
 
 ---
 
 ## Live demo
 
-> [sentimentscope.streamlit.app](https://sentimentscope.streamlit.app) *(update after deployment)*
+> [sentimentscope.streamlit.app](https://sentimentscope.streamlit.app) 
 
 ---
 
