@@ -3,7 +3,7 @@ import time
 
 APPS = [
     "https://i-s-h-a-n-05-sentimentscope.streamlit.app/",
-    "https://your-second-streamlit-app.streamlit.app/",  # replace with actual URL
+    "https://doctalk1.streamlit.app/",  # replace with actual URL
 ]
 
 def wake_app(page, url):
